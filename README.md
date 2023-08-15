@@ -14,3 +14,5 @@ curved_navigation_bar: ^1.0.3
 
 <img src="assets/images/dashboard.jpg">
 # Admin-Panel-webview-Using-Flutter
+
+This is just a bunch of UIs only. No authentication, No Validation, No backend or anything.
