@@ -12,5 +12,5 @@ fl_chart: ^0.62.0
 <br>
 curved_navigation_bar: ^1.0.3
 
-<img src="assets/images/dashboard.jpg">
+<img src="assets/images/dashboard.png">
 # Admin-Panel-webview-Using-Flutter
